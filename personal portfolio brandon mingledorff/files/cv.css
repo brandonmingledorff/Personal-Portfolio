@@ -70,18 +70,19 @@
 	}
 	
 	header figure {
+    margin-top: 7px;
 		border: 3px solid #eee;
-		border-radius: 78px;
+		border-radius: 83px;
 		float: right;
-		height: 156px;
-		width: 156px;
+		height: 166px;
+		width: 166px;
 	}
 	
 	header figure img {
-		border-radius: 75px;
-		height: 150px;
+		border-radius: 80px;
+		height: 160px;
 		position: relative;
-		width: 150px;
+		width: 160px;
 	}
 	
 	header hgroup {
