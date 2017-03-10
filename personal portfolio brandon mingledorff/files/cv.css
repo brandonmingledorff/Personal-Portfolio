@@ -62,7 +62,7 @@
 /* Header
 **********/
 	header[role=banner] {
-		background:#4F4F4F;
+		background: url('../bg.jpg') no-repeat center;
 		border-bottom:5px solid #ffe232;
     outline: 2px solid #000;
 		padding: 19px 0;
