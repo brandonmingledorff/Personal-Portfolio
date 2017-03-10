@@ -19,7 +19,7 @@ CrÃ©ateur : Christophe HERMANN (@chrishrmnn)
 /* Header
 **********/
 	header[role=banner] {
-		background:#4f4f4f;
+		background: url('../bg.jpg') no-repeat center;
 		border-bottom:5px solid #ffe232;
     outline: 2px solid #000;
 		padding: 19px 0;
